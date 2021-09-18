@@ -1,11 +1,9 @@
 {
   "name": "social-media-dashboard",
   "version": "1.0.0",
-  "description": "![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)",
- "homepage": "https://hariom7492.github.io/social-media-dashboard",
+  "description": "![Design preview for the Social media dashboard with theme switcher coding challenge]",
   "main": "index.js",
   "scripts": {
-
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -24,6 +22,5 @@
     "gulp-terser": "^2.0.1",
     "postcss": "^8.3.5",
     "sass": "^1.35.2"
-  },
- 
+  }
 }
