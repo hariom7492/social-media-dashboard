@@ -2,7 +2,7 @@
   "name": "social-media-dashboard",
   "version": "1.0.0",
   "description": "![Design preview for the Social media dashboard with theme switcher coding challenge]",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
